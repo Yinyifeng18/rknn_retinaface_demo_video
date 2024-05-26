@@ -1,0 +1,7 @@
+/home/alientek/example/32_rknn_retinaface_demo_video/rknn_retinaface_demo/build/build_linux_aarch64/CMakeFiles/install/local.dir
+/home/alientek/example/32_rknn_retinaface_demo_video/rknn_retinaface_demo/build/build_linux_aarch64/CMakeFiles/install.dir
+/home/alientek/example/32_rknn_retinaface_demo_video/rknn_retinaface_demo/build/build_linux_aarch64/CMakeFiles/list_install_components.dir
+/home/alientek/example/32_rknn_retinaface_demo_video/rknn_retinaface_demo/build/build_linux_aarch64/CMakeFiles/rebuild_cache.dir
+/home/alientek/example/32_rknn_retinaface_demo_video/rknn_retinaface_demo/build/build_linux_aarch64/CMakeFiles/edit_cache.dir
+/home/alientek/example/32_rknn_retinaface_demo_video/rknn_retinaface_demo/build/build_linux_aarch64/CMakeFiles/install/strip.dir
+/home/alientek/example/32_rknn_retinaface_demo_video/rknn_retinaface_demo/build/build_linux_aarch64/CMakeFiles/rknn_retinaface_demo.dir

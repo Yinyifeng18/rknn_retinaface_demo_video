@@ -1,0 +1,5 @@
+/home/alientek/example/32_rknn_retinaface_demo_video/rknn_retinaface_demo/install/rknn_retinaface_demo_Linux/./rknn_retinaface_demo
+/home/alientek/example/32_rknn_retinaface_demo_video/rknn_retinaface_demo/install/rknn_retinaface_demo_Linux/lib/librknnrt.so
+/home/alientek/example/32_rknn_retinaface_demo_video/rknn_retinaface_demo/install/rknn_retinaface_demo_Linux/lib/librga.so
+/home/alientek/example/32_rknn_retinaface_demo_video/rknn_retinaface_demo/install/rknn_retinaface_demo_Linux/.//model/test.jpg
+/home/alientek/example/32_rknn_retinaface_demo_video/rknn_retinaface_demo/install/rknn_retinaface_demo_Linux/.//model/RetinaFace.rknn
